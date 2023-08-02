@@ -1,6 +1,6 @@
 - 👋 Hi, I’m GIOVANI
 - 👀 I’m interested in ...Aprender Cloud Compyuter
-- 🌱 I’m currently learning ...Conhecimento
+- 🌱 I’m currently learning ...Assuntos Relacionados a Cloud
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
