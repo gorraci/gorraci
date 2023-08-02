@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 - 
-- ESTOU AQUI PARA APRENDER MEUS AMIGOS...
+  " SEMPRE EM BUSCA DE CONHECIMENTO....BORA APRENDER MEUS AMIGOS..."
 
 <!---
 gorraci/gorraci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
